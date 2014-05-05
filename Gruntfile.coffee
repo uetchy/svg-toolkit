@@ -1,3 +1,5 @@
+# svgo input.svg --disable convertPathData --disable mergePaths --pretty -o output.svg
+
 module.exports = (grunt) ->
   'use strict'
 
